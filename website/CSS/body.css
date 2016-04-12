@@ -1,0 +1,19 @@
+body {
+  background-color: #FED18C;
+  font-family: Arial, Verdana, sans-serif;
+  text-align: center;
+  font-family: arial,Microsoft JhengHei;
+}
+a.url:link{
+	color: #ccebf8;
+}
+a.url:hover{
+	color: #4cbbe9;
+}
+a.url:visited{
+	color:#FFFACD;
+}
+a{
+	font-weight: bold;
+	target: 
+}

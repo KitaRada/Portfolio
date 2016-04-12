@@ -1,0 +1,40 @@
+img.logo {
+	margin: 10px auto;
+}
+li.list{
+	display: inline; 
+	margin-right: 30px;
+}
+img.bottom{
+	width:150px;
+	height:auto;
+}
+
+#DetailIntroduction ,#DetailResume ,#DetailSkills{
+	background-color:#FE654F;
+	color:#FEFEFF;
+	height: 350px;
+	width: 700px;
+	clear: both;
+	margin-top: 2%;
+	margin: auto;
+	display: none;
+	text-align: left;
+	padding:10px;
+	border-radius:10px;
+	padding:20px;
+	line-height: 150%;
+}
+
+p.detail:first-letter{
+	font-size: 200%;
+}
+p.point{
+	text-align: center;
+	font-size: 150%;
+	line-height: 150%;
+	font-weight: bold;
+}
+#detail.color: {
+	font-size: 300%;
+}
